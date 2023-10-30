@@ -1,0 +1,38 @@
+{
+  "index.jsx -> ../components/home/about": {
+    "id": "index.jsx -> ../components/home/about",
+    "files": [
+      "static/chunks/components_home_about_jsx.js"
+    ]
+  },
+  "index.jsx -> ../components/home/companies": {
+    "id": "index.jsx -> ../components/home/companies",
+    "files": [
+      "static/chunks/components_home_companies_jsx.js"
+    ]
+  },
+  "index.jsx -> ../components/home/contact": {
+    "id": "index.jsx -> ../components/home/contact",
+    "files": [
+      "static/chunks/components_home_contact_jsx.js"
+    ]
+  },
+  "index.jsx -> ../components/home/hero": {
+    "id": "index.jsx -> ../components/home/hero",
+    "files": [
+      "static/chunks/components_home_hero_jsx.js"
+    ]
+  },
+  "index.jsx -> ../components/home/latest": {
+    "id": "index.jsx -> ../components/home/latest",
+    "files": [
+      "static/chunks/components_home_latest_jsx.js"
+    ]
+  },
+  "index.jsx -> ../components/home/professional": {
+    "id": "index.jsx -> ../components/home/professional",
+    "files": [
+      "static/chunks/components_home_professional_jsx.js"
+    ]
+  }
+}
